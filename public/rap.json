@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "titulo": "ASTROWORLD",
+      "artista": "Travis Scott",
+      "genero": "Rap/Trap Internacional",
+      "capa": "https://m.media-amazon.com/images/I/81nFF-rXdRL._UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 2,
+      "titulo": "High Off Life",
+      "artista": "Future",
+      "genero": "Rap/Trap Internacional",
+      "capa": "https://m.media-amazon.com/images/I/81BfCTQEN+L._UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 3,
+      "titulo": "So Much Fun",
+      "artista": "Young Thug",
+      "genero": "Rap/Trap Internacional",
+      "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ8HCh4XkIEHj6X5hrrO2sPD8GzJeqtk8tcw&s"
+    },
+    {
+      "id": 4,
+      "titulo": "JACKBOYS",
+      "artista": "Cactus Jack Records",
+      "genero": "Rap/Trap Internacional",
+      "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAA5EbXgbaDWq_2MeKSSV-arnONDIyHwAe2A&s"
+    },
+    {
+      "id": 5,
+      "titulo": "Without Warning",
+      "artista": "Metro Boomin, 21 Savage, Offset",
+      "genero": "Rap/Trap Internacional",
+      "capa": "https://m.media-amazon.com/images/I/61xyELCf+XL.jpg"
+    }
+  ]

@@ -1,0 +1,39 @@
+[
+    
+    {
+        "id": 11,
+        "titulo": "Honestly, Nevermind",
+        "artista": "Drake",
+        "genero": "Eletrônica/House",
+        "capa": "https://m.media-amazon.com/images/I/51Jkul7VLRL._SY200_QL15_.jpg"
+      },
+      {
+        "id": 12,
+        "titulo": "Promised Land",
+        "artista": "Vintage Culture",
+        "genero": "Eletrônica/House",
+        "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYFNyoWJHcl1ygssRWz8wWScC0m0uRmUEjfA&s"
+      },
+      {
+        "id": 13,
+        "titulo": "Surrender",
+        "artista": "RÜFÜS DU SOL",
+        "genero": "Eletrônica/House",
+        "capa": "https://upload.wikimedia.org/wikipedia/en/7/76/R%C3%BCf%C3%BCs_Du_Sol_-_Surrender.png"
+      },
+      {
+        "id": 14,
+        "titulo": "Settle",
+        "artista": "Disclosure",
+        "genero": "Eletrônica/House",
+        "capa": "https://m.media-amazon.com/images/I/81ze0Ls8nBL._UF1000,1000_QL80_.jpg"
+      },
+      {
+        "id": 15,
+        "titulo": "Paradise Again",
+        "artista": "Swedish House Mafia",
+        "genero": "Eletrônica/House",
+        "capa": "https://m.media-amazon.com/images/I/51mylPZsbzL._UF1000,1000_QL80_.jpg"
+      }
+
+]

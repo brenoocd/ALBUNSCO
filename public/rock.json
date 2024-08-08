@@ -1,0 +1,38 @@
+[
+    {
+        "id": 6,
+        "titulo": "Superunknown",
+        "artista": "Soundgarden",
+        "genero": "Rock/Grunge Internacional",
+        "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsdPz3W6-ulQ7cGbWLh0-_b2UlxXEUgT4tpQ&s"
+      },
+      {
+        "id": 7,
+        "titulo": "Ten",
+        "artista": "Pearl Jam",
+        "genero": "Rock/Grunge Internacional",
+        "capa": "https://m.media-amazon.com/images/I/61BgJqc2SJL._AC_UF1000,1000_QL80_.jpg"
+      },
+      {
+        "id": 8,
+        "titulo": "Fallen",
+        "artista": "Evanescence",
+        "genero": "Rock/Grunge Internacional",
+        "capa": "https://m.media-amazon.com/images/I/71b15oyQNML._UF1000,1000_QL80_.jpg"
+      },
+      {
+        "id": 9,
+        "titulo": "The Colour and the Shape",
+        "artista": "Foo Fighters",
+        "genero": "Rock/Grunge Internacional",
+        "capa": "https://m.media-amazon.com/images/I/61ZFtaZZXyL._UF1000,1000_QL80_.jpg"
+      },
+      {
+        "id": 10,
+        "titulo": "Audioslave",
+        "artista": "Audioslave",
+        "genero": "Rock/Grunge Internacional",
+        "capa": "https://m.media-amazon.com/images/I/818106vSzxL._UF1000,1000_QL80_.jpg"
+      }
+
+]

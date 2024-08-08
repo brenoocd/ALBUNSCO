@@ -1,0 +1,64 @@
+.sobre {
+    width: 100%;
+    min-height: 85vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.bio {
+    display: flex;
+    align-items: center;
+    gap: 3rem;
+    margin-bottom: 1.5rem;
+}
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    
+    
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+}
+
+table th, table td {
+    padding: 12px;
+    text-align: center;
+    border-bottom: 1px solid #000000;
+    
+}
+
+table th {
+    background-color: #3d3d3d;
+    color: rgb(217, 255, 0);;;
+    
+    
+}
+
+table tbody tr:hover {
+    background-color: #000000;
+    color: rgb(217, 255, 0);;
+    transition: 0.7s;
+        
+}
+
+table img {
+    max-width: 100px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    border-radius: 20px;
+}
